@@ -8,13 +8,26 @@ input {
   width: 40px;
   height: 40px;
   font-size: 18px;
-  margin: 5px;
+  margin: 20px;
 }
 
 button {
   width: 40px;
   height: 40px;
   font-size: 18px;
-  margin: 5px;
+  margin: 10px;
   cursor: pointer;
+  background-color: aquamarine;
+}
+
+.rectangle {
+  background-color: black;
+}
+
+#head {
+  background-color: aquamarine;
+}
+
+#display {
+  border-color: palevioletred;
 }
